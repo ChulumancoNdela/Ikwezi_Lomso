@@ -549,7 +549,7 @@ h1::after
 	font-size: 22px;
 	font-weight: bold;
 	margin-top:15px;
-	color: #007bff!important;
+	color:black!important;
 	
 }
 
@@ -566,7 +566,7 @@ h1::after
 {
 	height:25px;
 	width: 25px;
-	color: yellow !important;
+	/* color: yellow !important; */
 	background: #fff;
 	padding: 4px;
 	border-radius: 50%;
