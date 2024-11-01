@@ -4,6 +4,11 @@
 /* $itemGrow: 1.2;
 $duration: 250ms; */
 
+    .profile-pic {
+        margin: 15px; /* Adjust the value as needed */
+    }
+
+
 html {
 	scroll-behavior: smooth;
   } 
