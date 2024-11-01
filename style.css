@@ -6,7 +6,7 @@ $duration: 250ms; */
 
 html {
 	scroll-behavior: smooth;
-  }
+  } 
 *{
 	margin:0;
 	padding: 0;
@@ -52,7 +52,7 @@ html {
 
 /* Style the "active" element to highlight the current page */
 .topnav a.active {
-  background-color: #15c93c;
+  background-color: white;
   
 }
 
